@@ -1,0 +1,21 @@
+# PyTorch - deep learning framework that allows building and training neural network models
+torch>=1.12.0
+
+# Transformers - provides thousands of pre-trained models to perform tasks on different modalities such as text, vision, and audio
+transformers>=4.40.1
+
+# Torchvision - helps with loading and preparing the dataset for image-related tasks, not necessary for NLP but useful if extending the project
+torchvision>=0.13.0  # Optional, remove if not using any image processing
+
+# Accelerate - simplifies running training on multi-GPU or CPU setups, including compatibility with MPS for Mac
+accelerate>=0.21.0
+
+# NumPy - a fundamental package for scientific computing with Python, used for handling numerical data
+numpy>=1.23.0
+
+# tqdm - a library for making loops show a smart progress meter
+tqdm>=4.66.2
+
+# To manage tensor operations on MPS (Metal Performance Shaders) if using Apple Silicon
+# This dependency is automatically managed by PyTorch, included here for completeness
+# torch-mps>=1.12.0  # Uncomment if explicitly needed, usually covered by torch
