@@ -1,0 +1,365 @@
+सीरममे	NN
+‘	SYM
+काव्यप्रकाश	NN
+'	SYM
+क	PP
+संग	RB
+-	SYM
+संग	RB
+‘	SYM
+पाकप्रकाश	NN
+'	SYM
+सेहो	PP
+रहैत	VM
+छलैन	VAUX
+।	SYM
+
+
+एक	CD
+स	PP
+एक	CD
+चटकार	JJ
+व्यंजन	NN
+बनबबैत	VM
+रहै	VAUX
+छलाह	VAUX
+-	SYM
+मोनक्काक	JJ
+चटनी	NN
+,	SYM
+छाहाराक	JJ
+अचार	NN
+,	SYM
+अनार	NN
+-	SYM
+दाना	NN
+खटमिट्ठी	JJ
+।	SYM
+
+
+चाखि	VM
+चाखिक	VM
+प्रशंसा	NN
+करैत	VM
+छलथिन	VAUX
+‘‘	SYM
+एहि	PRN
+में	PP
+"	SYM
+हींग	NN
+।	SYM
+
+
+क	PP
+सुआद	NN
+अपर्व	RB
+लगैत	VM
+अछि	VAUX
+।	SYM
+
+एहि	PRN
+में	PP
+ष्यामीर	NNP
+भूजक	NN
+देने	VM
+बेस	JJ
+सनहगर	JJ
+भ	PP
+गेल	JJ
+अछि	VAUX
+।	SYM
+
+
+बाबूजी	NN
+के	PP
+गोरस	NN
+परम	JJ
+प्रिय	NN
+छलैन	VM
+।	SYM
+
+
+बिना	NEG
+गारसं	NN
+करसो	VM
+भोजनानाम्	NN
+!	SYM
+
+
+’	SYM
+बहुधा	JJC
+दूधमें	NN
+आम	NN
+वा	CC
+कटहरक	JJ
+रस	NN
+मिलाक	VM
+आस्वादन	NN
+करैत	VM
+छलाह	VAUX
+।	SYM
+
+
+'	SYM
+हुनका	PRN
+खैबोसॅ	NN
+बेसी	JJC
+खेऐबाक	VM
+सौख	NN
+छलैन	VAUX
+।	SYM
+
+लोकके	NN
+निमन्त्रण	NN
+द	VM
+क	PP
+खूब	JJ
+प्रकसॅ	JJ
+भोजन	NN
+करबैत	VM
+रहै	VAUX
+छलथिन	VAUX
+।	SYM
+
+
+विश्रामक	JJ
+काल	JJ
+बाबू	NN
+जी	PRO
+हमरासभके	PRN
+लगमे	NNP
+बैसाकय	NNP
+रंगबिरंगक	JJ
+मनोरंजक	NN
+बझौअलि	NN
+बुझबैत	VM
+छलाह	VAUX
+।	SYM
+
+
+"	SYM
+कहत	VM
+त	PRO
+।	SYM
+"	SYM
+
+
+"	SYM
+हॅ	RB
+,	SYM
+अश्टभुजा	NNP
+मूत्र्ति	NN
+।	SYM
+"	SYM
+
+
+"	SYM
+एहि	PRN
+करौनाक	VM
+गाछपर	NN
+अंगपोछा	NN
+ओछाक’	VM
+सूति	VM
+सकैत	VAUX
+छह	VAUX
+?	SYM
+"	SYM
+
+
+"	SYM
+हॅ	RB
+गाछ	NN
+पर	PP
+अंगपोछा	NN
+ओछा	VM
+देबैक	VAUX
+और	CC
+खाट	NN
+पर	PP
+सूति	VM
+रहब	VAUX
+।	SYM
+"	SYM
+
+
+"	SYM
+हाथीके	NN
+गीत	NN
+गबैत	VM
+देखने	VM
+छहक	VAUX
+?	SYM
+"	SYM
+
+
+"	SYM
+हॅ	RB
+।	SYM
+
+
+"	SYM
+हम	PRN
+गीत	NN
+गबैत	VM
+रही	VAUX
+।	SYM
+"	SYM
+
+
+"	SYM
+हाथी	NN
+चल	VM
+जाइत	VAUX
+रहय	VAUX
+।	SYM
+"	SYM
+
+मुदा	CC
+बिहारक	NNP
+टीम	NN
+मे	PP
+बिहारक	NNP
+‘मूल	JJ
+निवासी’	NN
+शामिल	NN
+नहि	NEG
+छलाह	VM
+।	SYM
+
+सरकार	NN
+सांस्कृतिक	JJ
+लेन	VM
+-	SYM
+देनक	VM
+नाम	NN
+पर	PP
+एहि	PRN
+संग्रहालयक	NN
+बहुमूल्य	JJ
+धरोहर	NN
+कए	VAUX
+पटना	NNP
+स्थित	NN
+बुद्ध	NNP
+स्मूति	NNP
+पार्क	NNP
+मे	PP
+स्थानांतरित	NN
+करबाक	VM
+फैसला	NN
+लेलक	PP
+अछि	VM
+।	SYM
+
+﻿कहबा	VM
+लेल	PP
+त	PRO
+1982	CD
+स	PP
+एखन	JJ
+धरि	RB
+केवल	RB
+नाला	NN
+संरचना	NN
+पर	PP
+कयटा	JJC
+योजना	NN
+तैयार	NN
+भेल	VM
+आ	CC
+टका	NN
+खर्च	NN
+भेल	VM
+,	SYM
+मुदा	CC
+ओ	PRN
+नाला	NN
+संरचना	NN
+केर	PP
+मजबूत	NN
+करबाक	VM
+बदला	NN
+मे	PP
+सरचना	NN
+केर	PP
+अप्रासंगिक	NN
+बना	VM
+देलक	VM
+।	SYM
+
+
+जेकर	PRN
+परिणाम	NN
+रहल	VM
+जे	PRQ
+1987	CD
+मे	PP
+शहर	NN
+पूर्णत	RB
+:	SYM
+डूबि	VM
+गेल	JJ
+।	SYM
+
+
+ओहि	PRN
+ऐतिहासिक	JJ
+बाढि	NN
+बाद	PP
+हालात	NN
+सुधरबाक	NN
+उम्मीद	NN
+जगल	VM
+,	SYM
+मुदा	CC
+सरकारक	NN
+उदासीनता	NN
+आ	CC
+राज	NN
+दरभंगाक	NNP
+पैघ	JJC
+पैमाना	NN
+पर	PP
+जमीन	NN
+बेचबाक	VM
+कारण	NN
+शहरक	NN
+ढांचा	NN
+मे	PP
+गौरव	NN
+करबा	VM
+लेल	PP
+किछु	JJC
+नहि	NEG
+बचल	VM
+।	SYM
+
+
+एक	CD
+दिस	JJ
+नालाक	NN
+अतिक्रमण	NN
+भ	PP
+चुकल	VAUX
+छल	PP
+त	PRO
+दोसर	CD
+दिस	JJ
+राज	NN
+दरभंगा	NNP
+सेहो	PRO
+पैघ	JJC
+पैमाना	NN
+पर	PP
+नाला	NN
+केर	PRO
+नाली	NN
+बना	VM
+दूनू	CD
+कातक	NN
+जमीन	NN
+लोक	NN
+केर	PP
+बेच	VM
+देलक	VAUX
+।	SYM
