@@ -26,6 +26,7 @@ Set up a virtual environment and install the required packages:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install torch transformers sklearn TorchCRF
+pip install -r requirements.txt
 ```
 
 ### Data Format
