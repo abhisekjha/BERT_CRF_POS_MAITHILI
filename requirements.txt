@@ -24,3 +24,6 @@ torchcrf>=1.1.0
 # To manage tensor operations on MPS (Metal Performance Shaders) if using Apple Silicon
 # This dependency is automatically managed by PyTorch, included here for completeness
 # torch-mps>=1.12.0  # Uncomment if explicitly needed, usually covered by torch
+
+# numpy-stl - a Python library for reading and writing 3D data in STL format
+numpy-stl>=2.16.0  # Optional, remove if not using any 3D data
