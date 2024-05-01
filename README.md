@@ -2,13 +2,16 @@
 
 This repository contains a Part-of-Speech (POS) tagging system that combines the powerful BERT (Bidirectional Encoder Representations from Transformers) model with a Conditional Random Field (CRF) layer to improve the tagging accuracy by leveraging contextual information more effectively.
 
-## Features
+## Model Description
 
-- Utilizes `bert-base-multilingual-cased` for multilingual capabilities.
-- Integrates a CRF layer to consider the tag dependencies in sequences, enhancing the model's prediction accuracy.
-- Includes training and validation scripts ready to run with example datasets.
+The BERT-CRF model integrates a pre-trained BERT model with a CRF layer. BERT provides deep contextualized embeddings that capture complex syntactic and semantic information from text, while the CRF layer models the dependencies between tags in sequences, improving the coherence of predictions.
 
-## Getting Started
+### Components
+
+1. **BERT Model**: Extracts rich feature representations for each token.
+2. **Dropout Layer**: Reduces overfitting during training by randomly setting input elements to zero.
+3. **Linear Layer**: Maps the BERT output features to the space of tag labels.
+4. **CRF Layer**: Models the tag sequence, taking into account the conditional probabilities of tags given their neighbors in the sequence.
 
 ### Prerequisites
 
