@@ -16,6 +16,11 @@ numpy>=1.23.0
 # tqdm - a library for making loops show a smart progress meter
 tqdm>=4.66.2
 
+# scikit-learn - a library for machine learning tasks such as classification, regression, and clustering
+scikit-learn>=1.0.2
+
+# torchcrf - a conditional random field implementation for PyTorch
+torchcrf>=1.1.0
 # To manage tensor operations on MPS (Metal Performance Shaders) if using Apple Silicon
 # This dependency is automatically managed by PyTorch, included here for completeness
 # torch-mps>=1.12.0  # Uncomment if explicitly needed, usually covered by torch
